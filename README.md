@@ -1,31 +1,96 @@
 
-# 🎨 Graphic Design Portfolio
+<div align="center">
 
-Welcome to my **Graphic Design Portfolio**!
+# GRAPHIC DESIGN PORTFOLIO
 
-I create eye-catching visual compositions, product advertisements, and digital marketing campaigns, combining creativity with visual storytelling.
+### Creative Visuals • Branding • Advertising
 
----
+Welcome to my creative portfolio.
 
-## ✨ My Projects
+I design eye-catching advertisements, product visuals and digital campaigns,
+combining creativity, visual storytelling and modern design.
 
-### 01. Haircare Advertising
-![ARVEA](./01-Haircare-Advertising/arvea-dry-shampoo.png)
-
-### 02. Men's Grooming
-![AUREA](./02-Men-Grooming/aurea-beard-serum.png)
-
-### 03. Food Advertising
-![Miel Boumiza](./03-Food-Advertising/miel-boumiza-honey.png)
-
-### 04. Luxury Advertising
-![Rolex](./04-Luxury-Advertising/rolex-luxury-campaign.png)
-
-### 05. Tunisian Products
-![SICAM](./05-Tunisian-Products/sicam-harissa-campaign.png)
+</div>
 
 ---
 
-<p align="center">
-  <strong>Created with creativity, passion & attention to detail.</strong>
-</p>
+## ✦ SELECTED WORKS
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 01 — Haircare Advertising
+
+<img src="./arvea-dry-shampoo.png" width="100%" alt="ARVEA Haircare Advertising">
+
+**Product Advertising**
+
+</td>
+<td width="50%" align="center">
+
+### 02 — Men's Grooming
+
+<img src="./aurea-beard-serum.png" width="100%" alt="AUREA Beard Serum">
+
+**Beauty & Grooming**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 03 — Haircare Campaign
+
+<img src="./aurea-blue-campaign.png" width="100%" alt="AUREA Campaign">
+
+**Creative Campaign**
+
+</td>
+<td width="50%" align="center">
+
+### 04 — Food Advertising
+
+<img src="./miel-boumiza-honey.png" width="100%" alt="Miel Boumiza">
+
+**Food & Product Design**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 05 — Luxury Advertising
+
+<img src="./rolex-luxury-campaign.png" width="100%" alt="Rolex Campaign">
+
+**Luxury & Branding**
+
+</td>
+<td width="50%" align="center">
+
+### 06 — Tunisian Products
+
+<img src="./sicam-harissa-campaign.png" width="100%" alt="SICAM Harissa">
+
+**Tunisian Product Advertising**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ABOUT MY WORK
+
+Creative ideas transformed into visual experiences.
+
+**Designing with creativity. Communicating through visuals.**
+
+---
+
+*© 2026 — Graphic Design Portfolio*
+
+</div>
